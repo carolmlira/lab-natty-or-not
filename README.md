@@ -17,26 +17,17 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
+Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+markdown
+IAs generativas e suas precauções de uso
 
-## 📒 Descrição
-Breve descrição do seu projeto
+ 📒 Descrição
+Um vídeo criado por ia generativa com o intuito de alertar os riscos das depp fakes
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+🤖 Tecnologias Utilizadas
+Vindnoz Ai e sua bibliotecas personalisadas
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 ### Exemplos e Insigths
 
